@@ -1,0 +1,26 @@
+h1 {
+    color: #7a7ac7;
+    margin: 0;
+  }
+  li {
+    list-style: none;
+    font-size: 15px;
+    height: 19px;
+    padding: 0 auto;
+  }
+  ul {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .temperature {
+    font-size: 30px;
+    line-height: 1;
+    font-weight: 400;
+    color: #7a7ac7;
+  }
+  .units {
+    position: relative;
+    top: -8px;
+  }
+  
