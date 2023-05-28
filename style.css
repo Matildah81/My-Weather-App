@@ -23,4 +23,6 @@ h1 {
     position: relative;
     top: -8px;
   }
-  
+  footer {
+    text-align: center;
+  }
